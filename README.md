@@ -21,7 +21,8 @@ strata-skill/
 │   ├── best-practices.md              # Beyond-minimum professional practice + legal-escalation flags
 │   ├── privacy-and-accommodation.md   # PIPA obligations + Human Rights Code duty to accommodate
 │   ├── choa-guidance.md               # Topic index to CHOA bulletins (fetched live, never copied)
-│   └── key-cases.md                   # Leading authorities (Terry, Dollan, Weir) + when to cite them
+│   ├── key-cases.md                   # Leading authorities (Terry, Dollan, Weir) + when to cite them
+│   └── roberts-rules.md               # Robert's Rules adapted to the SPA: chairing, motions, s. 50(2)
 └── assets/templates/
     ├── notice-to-comply.md            # s. 135 bylaw-complaint notice
     ├── arrears-demand.md              # Formal demand (lien / non-lienable variants)
