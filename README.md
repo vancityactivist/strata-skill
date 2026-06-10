@@ -34,9 +34,18 @@ strata-skill/
 
 ## Installation
 
-**Easiest** — download `strata-skill.skill` from the [latest release](https://github.com/vancityactivist/strata-skill/releases/latest), then double-click it (Claude Desktop) or upload it via Settings → Capabilities → Skills (claude.ai).
+**Claude Code (direct install)** — no clone needed:
 
-**Claude Code** — clone this repo into your skills directory:
+```
+/plugin marketplace add vancityactivist/strata-skill
+/plugin install strata-agent-assistant@strata-skills
+```
+
+Updates arrive via `/plugin marketplace update strata-skills`.
+
+**Claude Desktop / claude.ai** — download `strata-skill.skill` from the [latest release](https://github.com/vancityactivist/strata-skill/releases/latest), then double-click it (Desktop) or upload it via Settings → Capabilities → Skills (claude.ai).
+
+**Manual (Claude Code)** — clone this repo into your skills directory:
 
 ```bash
 git clone https://github.com/vancityactivist/strata-skill.git ~/.claude/skills/strata-skill

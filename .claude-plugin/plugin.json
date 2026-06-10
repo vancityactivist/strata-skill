@@ -1,0 +1,8 @@
+{
+  "name": "strata-agent-assistant",
+  "description": "BC strata manager's assistant: Strata Property Act reviews, bylaw enforcement, meetings, levies, liens, privacy and human-rights guidance, letter templates",
+  "version": "1.0.0",
+  "author": {
+    "name": "Adam Glover"
+  }
+}
