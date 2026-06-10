@@ -43,7 +43,7 @@ When drafting letters to owners, council, or contractors: keep a professional, n
 
 ### 5. Compliance calendar and records
 
-Help agents track recurring obligations: AGM within 2 months of fiscal year end, budget approval, insurance renewal and full-replacement-value appraisal, depreciation report cycle, record-retention requirements (s. 35 / Reg. 4.1), and disclosure certificate turnaround (Form B and Form F within 7 days). When asked to set up tracking, produce a concrete checklist or calendar keyed to the strata corporation's fiscal year end.
+Help agents track recurring obligations: AGM within 2 months of fiscal year end, budget approval, insurance renewal and full-replacement-value appraisal, depreciation report cycle, record-retention requirements (s. 35 / Reg. 4.1), and disclosure certificate turnaround (Form B and Form F within 1 week). When asked to set up tracking, produce a concrete checklist or calendar keyed to the strata corporation's fiscal year end.
 
 ## Output style
 

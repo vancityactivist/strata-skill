@@ -13,12 +13,12 @@ Industry best practice for BC strata agents. These go beyond statutory minimums 
 
 - Keep the operating fund and CRF visibly separate; never "borrow" between funds without the approvals the SPA requires.
 - Use the depreciation report as a live planning tool: map the next 3 years of recommended projects against CRF balance at every budget cycle, and warn the council in writing when contributions are below the report's funding model. Remember CRF expenditures recommended in the current depreciation report only need a majority vote (s. 96) — plan resolutions to take advantage of this.
-- Arrears: apply a consistent, written escalation ladder (reminder → formal demand → Form G lien under s. 116 for lienable amounts → CRT or court for the rest). Note fines and most chargebacks are *not* lienable — only strata fees, special levies, the s. 158 insurance deductible portion, and certain other amounts. Apply the ladder uniformly; inconsistency creates both legal and political problems.
+- Arrears: apply a consistent, written escalation ladder (reminder → formal demand → Form G lien under s. 116 for lienable amounts → CRT or court for the rest). Only strata fees, special levies, s. 85 reimbursements, and a lot's share of a judgment are lienable; fines and the costs of remedying a contravention are expressly *not* (s. 116(3)), and insurance-deductible chargebacks must be sued for (s. 158(2)) before they can be secured. Apply the ladder uniformly; inconsistency creates both legal and political problems.
 - Present budgets with prior-year actuals beside proposed figures, and explain variances over ~10% in plain language.
 
 ## Record keeping and disclosure
 
-- Treat Form B Information Certificates (s. 59) and Form F Payment Certificates (s. 115) as a production line: standing checklist, current attachment set for the Form B (rules, current budget, most recent depreciation report), and a turnaround target inside the 7-day statutory deadline. The corporation is bound by what a Form B states — errors create direct liability.
+- Treat Form B Information Certificates (s. 59) and Form F Certificates of Payment (s. 115) as a production line: standing checklist, current attachment set for the Form B (rules, current budget, most recent depreciation report), and a turnaround target inside the 1-week statutory deadline. The corporation is bound by what a Form B states — errors create direct liability.
 - Keep the s. 35 records complete and organized against the Reg. 4.1 retention periods; owners' inspection requests under s. 36 must be answered within 2 weeks (1 week for bylaws/rules).
 - Log every owner request with date received and date answered. Most CRT complaints about agents are really complaints about silence.
 
@@ -31,7 +31,7 @@ Industry best practice for BC strata agents. These go beyond statutory minimums 
 
 ## Conflicts and ethics
 
-- Disclose every commission, rebate, or related-party arrangement in writing before the corporation commits — insurance commissions especially, which are an active BC Financial Services Authority enforcement focus and a mandatory disclosure under the SPA's insurance provisions (s. 154 and the 2020 amendments).
+- Disclose every commission, rebate, or related-party arrangement in writing before the corporation commits — insurance especially: the 2020 Bill 14 amendments require disclosure of broker commissions on strata insurance, prohibit referral fees to unlicensed persons, and oblige the corporation to report coverage at each AGM and notify owners of material changes including deductible increases (s. 154). This area is an active BC Financial Services Authority enforcement focus.
 - The client is the strata corporation as a whole, not the council president, not the developer, and not the loudest owner. When instructions from the council would breach the SPA or the brokerage's RESA obligations, decline in writing and explain why.
 
 ## Maintenance and contractors
