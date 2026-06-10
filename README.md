@@ -4,17 +4,22 @@ A [Claude skill](https://docs.claude.com/en/docs/agents-and-tools/agent-skills) 
 
 ## What it does
 
-- **Strata Property Act reviews** — checks meeting notices, expenditures, bylaws, fines, and repair-responsibility questions against the specific SPA sections that govern them, and states a clear compliant / non-compliant conclusion with the path to fix problems.
-- **Best-practice recommendations** — advises on the professionally defensible approach, clearly separating what the SPA *requires* from what good practice *adds*.
-- **Meeting support** — AGM/SGM/council meeting prep: notice periods, quorum, voting thresholds (majority vs. 3/4 vs. unanimous), and drafting resolutions and minutes that survive CRT challenge.
-- **Correspondence and disputes** — drafts ready-to-send letters to owners, council, and contractors, citing the statutory or bylaw basis, and maps the escalation pathway (s. 135 process → Civil Resolution Tribunal).
-- **Compliance calendar** — tracks recurring obligations keyed to fiscal year end: AGM timing, Form B/F turnaround, depreciation report cycles, record retention, insurance appraisals.
+- **Strata Property Act reviews** — checks meeting notices, expenditures, bylaws, fines, and repair-responsibility questions against the specific SPA sections that govern them, and states a clear compliant / non-compliant conclusion with the path to fix problems. Backed by leading case law (*Terry*, *Dollan*, *Weir*) where authority strengthens the advice.
+- **Best-practice recommendations** — advises on the professionally defensible approach, clearly separating what the SPA *requires* from what good practice *adds*, with pointers into CHOA's bulletin library for practical depth.
+- **Meeting support** — AGM/SGM/council meeting prep *and chairing*: notice periods, quorum, voting thresholds (majority vs. 3/4 vs. unanimous), Robert's Rules adapted to the SPA hierarchy (including the s. 50(2) limits on amending noticed resolutions), and resolutions and minutes that survive CRT challenge.
+- **Correspondence and disputes** — drafts ready-to-send letters to owners, council, and contractors from bundled templates, citing the statutory or bylaw basis, and maps the escalation pathway (s. 135 process → Civil Resolution Tribunal).
+- **Privacy and human rights** — PIPA obligations (privacy officers, surveillance and key-fob systems, records access) and the Human Rights Code duty to accommodate (pets, accessibility, 55+ bylaws), which override bylaws and trip up agents most often.
+- **Compliance calendar** — tracks recurring obligations keyed to fiscal year end: AGM timing, Form B/F turnaround, depreciation report and electrical planning report deadlines, record retention, insurance appraisals.
+
+Statutory citations were verified against the current consolidated SPA and Regulation on [bclaws.gov.bc.ca](https://www.bclaws.gov.bc.ca) in June 2026, including the 2022 Bill 44 rental/age changes, the 2023 CRF minimum-contribution rule, and the 2024–25 depreciation-report reforms.
 
 ## Structure
 
 ```
 strata-skill/
 ├── SKILL.md                           # Entry point: triggering description + 5 core workflows
+├── .claude-plugin/                    # Plugin + marketplace manifests for direct install
+├── evals/                             # Test scenarios with assertions (used during development)
 ├── references/
 │   ├── strata-property-act.md         # SPA/Regulation thresholds, deadlines, section numbers
 │   ├── act-review-checklist.md        # Structured checklists for common compliance reviews
