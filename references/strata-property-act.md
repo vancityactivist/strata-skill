@@ -25,7 +25,7 @@ Reference for strata management duties under BC's Strata Property Act (SPA), Str
 ## Money
 
 - **Budget**: approved at each AGM by majority vote (s. 103).
-- **Contingency reserve fund (CRF)**: mandatory; minimum contributions per Regulation. Spending requires a 3/4 vote, except a **majority vote** suffices for: depreciation reports, repairs/replacements recommended in the current depreciation report, EV charging infrastructure, and electrical planning reports (s. 96).
+- **Contingency reserve fund (CRF)**: mandatory; the annual contribution must be at least 10% of the operating fund budget (Reg. 6.1, effective Nov 1, 2023 — up from the old 5%/25%-cap formula). Spending requires a 3/4 vote, except a **majority vote** suffices for: depreciation reports, repairs/replacements recommended in the current depreciation report, EV charging infrastructure, and electrical planning reports (s. 96).
 - **Unapproved expenditures (s. 98)**: from the operating fund, up to the bylaw limit — or if the bylaws are silent, the lesser of $2,000 or 5% of the current year's operating fund contribution. From either fund in a genuine emergency (immediate expenditure necessary to ensure safety or prevent significant loss or damage), limited to the minimum amount needed.
 - **Special levies (s. 108)**: 3/4 vote if levied by the s. 99/100 formula (unit entitlement); a different fair division requires a unanimous vote. The resolution must state purpose, total amount, method, each lot's share, and payment dates.
 - **Depreciation reports (ss. 92, 94; Reg. 6.2–6.22)**: required at least once every 5 years (Reg. 6.21(2)); only corporations with fewer than 5 lots are exempt (Reg. 6.22). Reports obtained on or after July 1, 2025 must be prepared by a prescribed qualified professional (engineer, architect, applied science technologist, or accredited appraiser). Transitional deadlines: July 1, 2026 (designated areas) / July 1, 2027 (elsewhere); new corporations get 2 years from first AGM (18 months if established after July 1, 2027).
@@ -34,7 +34,7 @@ Reference for strata management duties under BC's Strata Property Act (SPA), Str
 ## Records and disclosure
 
 - **Records to keep** (s. 35) and retention periods (Regulation 4.1); owners' right to inspect/copy (s. 36).
-- **Form B Information Certificate (s. 59)**: deliver within 1 week of request.
+- **Form B Information Certificate (s. 59)**: deliver within 1 week of request. Since April 2023 it must include a summary of the strata corporation's insurance coverage, alongside the rules, current budget, and most recent depreciation report.
 - **Form F Certificate of Payment (s. 115)**: required for conveyance; deliver within 1 week.
 
 ## Bylaws and enforcement
