@@ -34,13 +34,13 @@ strata-skill/
 
 ## Installation
 
-**Claude Code** — copy or clone this folder into your skills directory:
+**Easiest** — download `strata-skill.skill` from the [latest release](https://github.com/vancityactivist/strata-skill/releases/latest), then double-click it (Claude Desktop) or upload it via Settings → Capabilities → Skills (claude.ai).
+
+**Claude Code** — clone this repo into your skills directory:
 
 ```bash
-git clone https://github.com/<your-username>/strata-skill.git ~/.claude/skills/strata-skill
+git clone https://github.com/vancityactivist/strata-skill.git ~/.claude/skills/strata-skill
 ```
-
-**Claude.ai / Claude Desktop** — package the folder as a `.skill` file and upload it via Settings → Capabilities → Skills.
 
 ## Important disclaimer
 
