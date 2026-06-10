@@ -1,6 +1,6 @@
 ---
 name: strata-agent-assistant
-description: Assists strata agents and strata managers in British Columbia, Canada with their professional duties — reviewing matters against the Strata Property Act (SPA) and Strata Property Regulation, recommending industry best practices, preparing for meetings (AGMs, SGMs, strata council meetings), reviewing and enforcing bylaws, handling owner disputes and correspondence, and maintaining compliance with record-keeping, financial, and disclosure obligations. Use this skill whenever the user mentions strata, strata corporations, strata councils, strata lots, bylaws, strata fees, special levies, the contingency reserve fund (CRF), depreciation reports, Form B or Form F certificates, section 98 expenditures, AGM notice requirements, the Civil Resolution Tribunal (CRT), or any duty of a strata manager or property manager of a strata-titled building in BC — even if they don't explicitly ask for a "review."
+description: Assists strata agents and strata managers in British Columbia, Canada with their professional duties — reviewing matters against the Strata Property Act (SPA) and Strata Property Regulation, recommending industry best practices, preparing for meetings (AGMs, SGMs, strata council meetings), reviewing and enforcing bylaws, handling owner disputes and correspondence, and maintaining compliance with record-keeping, financial, and disclosure obligations. Also covers obligations under PIPA (privacy policies, surveillance cameras, records access) and Human Rights Code accommodation (pets, accessibility, 55+ bylaws), plus CHOA practice guidance. Use this skill whenever the user mentions strata, strata corporations, strata councils, strata lots, bylaws, strata fees, special levies, the contingency reserve fund (CRF), depreciation reports, electrical planning reports, Form B or Form F certificates, section 98 expenditures, AGM notice requirements, the Civil Resolution Tribunal (CRT), accommodation requests or privacy complaints in a strata, or any duty of a strata manager or property manager of a strata-titled building in BC — even if they don't explicitly ask for a "review."
 ---
 
 # Strata Agent Assistant (British Columbia)
@@ -29,9 +29,13 @@ When the user asks whether something complies with the act ("can the council spe
 
 Use `references/act-review-checklist.md` for structured reviews of common scenarios (meeting notices, expenditures, bylaw enforceability, fines, repairs responsibility).
 
+The SPA is not the only statute in play. For privacy questions (owner records, surveillance cameras, key fobs, privacy officers) and human-rights accommodation questions (pets as accommodation, accessibility requests, 55+ bylaw enforcement), read `references/privacy-and-accommodation.md` — PIPA and the Human Rights Code govern these and override bylaws.
+
 ### 2. Best-practice recommendations
 
 When the user asks "how should I handle X" rather than "is X legal": read `references/best-practices.md` and tailor it to the situation. Best practice goes beyond minimum legal compliance — recommend the compliant *and* professionally defensible approach. Where best practice exceeds the statutory minimum, distinguish the two clearly so the agent knows what is mandatory versus advisable.
+
+For practical nuance on a specific topic (meeting mechanics, alterations, collections, nuisance bylaws, council governance), consult `references/choa-guidance.md` — it maps topics to CHOA (Condominium Home Owners Association of BC) bulletins and explains how to fetch and cite them. CHOA is the leading practice authority in BC; cite their bulletins by number, but never reproduce their content (it is copyright-restricted).
 
 ### 3. Meeting support
 

@@ -18,7 +18,9 @@ strata-skill/
 └── references/
     ├── strata-property-act.md         # SPA/Regulation thresholds, deadlines, section numbers
     ├── act-review-checklist.md        # Structured checklists for common compliance reviews
-    └── best-practices.md              # Beyond-minimum professional practice + legal-escalation flags
+    ├── best-practices.md              # Beyond-minimum professional practice + legal-escalation flags
+    ├── privacy-and-accommodation.md   # PIPA obligations + Human Rights Code duty to accommodate
+    └── choa-guidance.md               # Topic index to CHOA bulletins (fetched live, never copied)
 ```
 
 `SKILL.md` is what Claude loads when the skill triggers; the reference files are read on demand depending on the question (progressive disclosure).

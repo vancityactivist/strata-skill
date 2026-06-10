@@ -30,6 +30,7 @@ Reference for strata management duties under BC's Strata Property Act (SPA), Str
 - **Special levies (s. 108)**: 3/4 vote if levied by the s. 99/100 formula (unit entitlement); a different fair division requires a unanimous vote. The resolution must state purpose, total amount, method, each lot's share, and payment dates.
 - **Depreciation reports (ss. 92, 94; Reg. 6.2–6.22)**: required at least once every 5 years (Reg. 6.21(2)); only corporations with fewer than 5 lots are exempt (Reg. 6.22). Reports obtained on or after July 1, 2025 must be prepared by a prescribed qualified professional (engineer, architect, applied science technologist, or accredited appraiser). Transitional deadlines: July 1, 2026 (designated areas) / July 1, 2027 (elsewhere); new corporations get 2 years from first AGM (18 months if established after July 1, 2027).
 - **Liens (s. 116)**: only strata fees, special levies, s. 85 reimbursements, and a lot's share of a judgment are lienable. **Fines and remediation costs are not lienable** (s. 116(3)) — they must be recovered through the CRT or court.
+- **Electrical planning reports (Reg. 5.7–5.12)**: corporations with 5+ lots must obtain one by Dec 31, 2026 (Capital, Fraser Valley, and Metro Vancouver regional districts) or Dec 31, 2028 (everywhere else, and boat/air-access-only islands); new corporations have 5 years from strata plan deposit. Fewer than 5 lots: optional.
 
 ## Records and disclosure
 
