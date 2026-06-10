@@ -20,7 +20,8 @@ strata-skill/
 │   ├── act-review-checklist.md        # Structured checklists for common compliance reviews
 │   ├── best-practices.md              # Beyond-minimum professional practice + legal-escalation flags
 │   ├── privacy-and-accommodation.md   # PIPA obligations + Human Rights Code duty to accommodate
-│   └── choa-guidance.md               # Topic index to CHOA bulletins (fetched live, never copied)
+│   ├── choa-guidance.md               # Topic index to CHOA bulletins (fetched live, never copied)
+│   └── key-cases.md                   # Leading authorities (Terry, Dollan, Weir) + when to cite them
 └── assets/templates/
     ├── notice-to-comply.md            # s. 135 bylaw-complaint notice
     ├── arrears-demand.md              # Formal demand (lien / non-lienable variants)
