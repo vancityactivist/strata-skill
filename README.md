@@ -15,12 +15,17 @@ A [Claude skill](https://docs.claude.com/en/docs/agents-and-tools/agent-skills) 
 ```
 strata-skill/
 ├── SKILL.md                           # Entry point: triggering description + 5 core workflows
-└── references/
-    ├── strata-property-act.md         # SPA/Regulation thresholds, deadlines, section numbers
-    ├── act-review-checklist.md        # Structured checklists for common compliance reviews
-    ├── best-practices.md              # Beyond-minimum professional practice + legal-escalation flags
-    ├── privacy-and-accommodation.md   # PIPA obligations + Human Rights Code duty to accommodate
-    └── choa-guidance.md               # Topic index to CHOA bulletins (fetched live, never copied)
+├── references/
+│   ├── strata-property-act.md         # SPA/Regulation thresholds, deadlines, section numbers
+│   ├── act-review-checklist.md        # Structured checklists for common compliance reviews
+│   ├── best-practices.md              # Beyond-minimum professional practice + legal-escalation flags
+│   ├── privacy-and-accommodation.md   # PIPA obligations + Human Rights Code duty to accommodate
+│   └── choa-guidance.md               # Topic index to CHOA bulletins (fetched live, never copied)
+└── assets/templates/
+    ├── notice-to-comply.md            # s. 135 bylaw-complaint notice
+    ├── arrears-demand.md              # Formal demand (lien / non-lienable variants)
+    ├── agm-notice.md                  # AGM notice meeting s. 45 requirements
+    └── hearing-decision.md            # Written decision after s. 135 response / s. 34.1 hearing
 ```
 
 `SKILL.md` is what Claude loads when the skill triggers; the reference files are read on demand depending on the question (progressive disclosure).

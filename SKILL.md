@@ -45,6 +45,14 @@ For AGM/SGM/council meeting preparation: verify notice periods (14 days + 4 deem
 
 When drafting letters to owners, council, or contractors: keep a professional, neutral tone; state the statutory or bylaw basis for any demand or refusal; avoid admitting liability on the strata corporation's behalf; document the procedural history (what was sent, when, under what section). For escalating disputes, set out the pathway: internal resolution → s. 135 process for bylaw matters → Civil Resolution Tribunal, with BC Supreme Court reserved for the matters outside CRT jurisdiction.
 
+Letter templates live in `assets/templates/`:
+- `notice-to-comply.md` — first step of the s. 135 bylaw-complaint procedure
+- `arrears-demand.md` — formal demand, with lien vs. non-lienable variants built in
+- `agm-notice.md` — AGM notice meeting the s. 45 content requirements
+- `hearing-decision.md` — written decision after a s. 135 response or s. 34.1 hearing
+
+Each template opens with a "Usage notes" section — read it, apply it, but deliver only the letter body below the `---` divider, with every `{{placeholder}}` resolved. If a needed fact is missing (bylaw number, amounts, dates), ask rather than inventing it. Where the situation doesn't fit the template, adapt freely — the procedural requirements in the usage notes are the part that must survive, not the prose.
+
 ### 5. Compliance calendar and records
 
 Help agents track recurring obligations: AGM within 2 months of fiscal year end, budget approval, insurance renewal and full-replacement-value appraisal, depreciation report cycle, record-retention requirements (s. 35 / Reg. 4.1), and disclosure certificate turnaround (Form B and Form F within 1 week). When asked to set up tracking, produce a concrete checklist or calendar keyed to the strata corporation's fiscal year end.
