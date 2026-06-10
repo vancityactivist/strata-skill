@@ -26,6 +26,7 @@ When the user asks whether something complies with the act ("can the council spe
 3. Apply the facts to the requirements step by step — don't just quote the section.
 4. State a clear conclusion: compliant / non-compliant / depends on X.
 5. If non-compliant, explain the consequence (e.g., resolution voidable, fine invalid, CRT exposure) and the path to fix it.
+6. Where a leading case makes the consequence concrete (strict s. 135 compliance, significant unfairness, the s. 72 repair standard), cite it — see `references/key-cases.md`. Authority a council can look up lands harder than a bare section number.
 
 Use `references/act-review-checklist.md` for structured reviews of common scenarios (meeting notices, expenditures, bylaw enforceability, fines, repairs responsibility).
 

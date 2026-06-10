@@ -1,0 +1,53 @@
+{
+  "skill_name": "strata-agent-assistant",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "I'm a strata manager in Burnaby BC. An owner at one of my buildings is disputing a $200 fine for repeated visitor parking violations. Council imposed the fine at their meeting last Tuesday, right after receiving the complaint email from another owner \u2014 no letter was sent to the owner being fined first. Now the fined owner is threatening to take it to the CRT. What do I tell council, and what should we send the owner to sort this out?",
+      "expected_output": "Identifies the fine as invalid under SPA s. 135 (no written particulars or opportunity to respond before imposing), advises reversing the fine and restarting the procedure correctly, and drafts a proper s. 135 notice-to-comply letter.",
+      "files": [],
+      "assertions": [
+        "Identifies the existing fine as invalid because the s. 135 procedure (written particulars and an opportunity to respond/hearing) was not completed before the fine was imposed",
+        "Advises council to reverse or rescind the fine rather than defend it at the CRT",
+        "Drafts a proper notice-to-comply letter with specific particulars, a response/hearing window, and no statement that a decision has already been made",
+        "Cites SPA s. 135 (not a wrong or invented section)"
+      ]
+    },
+    {
+      "id": 1,
+      "prompt": "I manage The Owners, Strata Plan VR1234 in Vancouver. Fiscal year ended December 31. We're holding the AGM on February 20 at the Hellenic Centre, 7pm, registration 6:30. The big item is a $150,000 special levy for roof replacement, to be paid by unit entitlement in two instalments (May 1 and Sept 1). Budget is also up about 8% mostly due to insurance. Draft the AGM notice for me and tell me the last day I can put it in the mail.",
+      "expected_output": "A complete AGM notice with s. 45-compliant agenda (including insurance report and budget approval), the special levy resolution in full text as a 3/4 vote citing s. 108, proxy information \u2014 and the mailing deadline correctly computed as at least 18 days before the meeting (14 days notice + 4 days deemed delivery, s. 61), i.e. on or before February 2.",
+      "files": [],
+      "assertions": [
+        "Computes the last mailing day as on or before February 2 (14 days notice under s. 45 plus 4 days deemed delivery under s. 61, before a Feb 20 meeting)",
+        "Includes the special levy resolution in full operative text as a 3/4 vote citing s. 108, with the $150,000 amount, roof replacement purpose, unit-entitlement method, and both instalment dates",
+        "Agenda includes approval of the budget (majority vote) and the s. 154 insurance report",
+        "Includes proxy instructions and states the quorum requirement (1/3 of votes)"
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "Quick question - my strata council president wants to go ahead and spend about $40k from the contingency fund to repave the parking lot. The repaving is recommended in our depreciation report from 2024. She says since it's in the depreciation report, council can just approve it themselves at the next council meeting without taking it to the owners. Is she right? AGM isn't until November.",
+      "expected_output": "No \u2014 s. 96 still requires approval by a resolution at a general meeting; the depreciation-report link only lowers the threshold from 3/4 to majority vote. Options: wait for the AGM, call an SGM, and note the s. 98 emergency exception does not apply to planned repaving.",
+      "files": [],
+      "assertions": [
+        "Concludes the council president is wrong: council cannot approve the CRF expenditure on its own",
+        "Explains that the depreciation-report recommendation lowers the approval threshold to a majority vote at a general meeting (s. 96), rather than removing the need for owner approval",
+        "Identifies calling a special general meeting as the option to proceed before the November AGM",
+        "Does not suggest the s. 98 emergency exception applies to planned repaving"
+      ]
+    },
+    {
+      "id": 3,
+      "prompt": "I need a demand letter for an owner in arrears at strata plan EPS5566. They owe $3,200 total: $1,800 in unpaid strata fees (Jan-Apr), $900 in noise bylaw fines, and $500 for a move-in fee chargeback under our bylaws. Council wants to register a lien for the full amount if they don't pay within two weeks. Can we? Draft the letter.",
+      "expected_output": "Advises that only the $1,800 strata fees are lienable under s. 116 \u2014 fines ($900) and the move-in chargeback ($500) are excluded by s. 116(3) and must go through the CRT. The letter demands the full amount but warns of a lien only for the lienable portion (also satisfying the s. 112 two-week demand) and CRT proceedings for the rest.",
+      "files": [],
+      "assertions": [
+        "States that only the $1,800 in strata fees is lienable, and that the $900 fines and $500 move-in chargeback are excluded from lien (s. 116(3))",
+        "Advises against threatening or registering a lien for the full $3,200; identifies the CRT as the recovery route for the non-lienable amounts",
+        "The letter functions as the s. 112 written demand with at least 2 weeks to pay before lien registration",
+        "Itemizes the arrears by type, date, and amount"
+      ]
+    }
+  ]
+}
